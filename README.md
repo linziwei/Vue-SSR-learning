@@ -1,1 +1,1 @@
-# vue-ssr
+### learning by [官方 Vue SSR指南](https://ssr.vuejs.org/zh/ "官方 Vue SSR指南") and [官方 HackerNews Demo](https://github.com/vuejs/vue-hackernews-2.0/ "官方 HackerNews Demo")
